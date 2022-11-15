@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Figure
+comment1.params=phi
+comment1.target=Figure(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=zeit\ frequenz
+comment3.target=double\ formularLissajous(int,\ int)
+comment4.params=coordinate\ center
+comment4.target=int\ centerToTransform(double,\ int)
+comment5.params=value
+comment5.target=void\ setFunctinX(int)
+comment6.params=value
+comment6.target=void\ setFunctionY(int)
+numComments=7

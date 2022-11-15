@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FSlider
+comment1.params=stringlabel\ initalize\ listener
+comment1.target=FSlider(java.lang.String,\ int,\ javax.swing.event.ChangeListener)
+numComments=2
